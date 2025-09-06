@@ -1,0 +1,2 @@
+# Quality-Analysis-of-a-Major-Food-and-Beverage-Manufacture-Using-HTML-and-PowerBI
+This project uses Power BI and HTML to analyze a food and beverage company's quality metrics across a continent. It leverages data mining from sources like production footage and client calls. The goal is to create a dynamic website where users can interact with Power BI dashboards, which visually represent quality data for better understanding.
